@@ -1,4 +1,4 @@
-<h3 align="center">Hello, World! 🌎 Sou a Camilly, estudante de ADS e apaixonada por tecnologia 🚀</h3>
+<h3 align="center">Hello, World! 🌎 Sou a Camilly e atualmente estudante de ADS 🚀</h3>
 
 ###
 
